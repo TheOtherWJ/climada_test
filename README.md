@@ -1,6 +1,6 @@
 # Climada Test Project
 
-This repository contains a Jupyter notebook I wrote in experimenting with [Climada](https://climada.ethz.ch/climada/) and instructions on how to create the same virtual environment I did to run the code (climada_test.ipynb).
+This repository contains a Jupyter notebook I wrote in experimenting with [Climada](https://climada.ethz.ch/climada/) and instructions on how to create the same virtual environment I did to run the code (climada_test.ipynb). If you want to play with the code and later commit any changes, I suggest cloning the repository and following the instructions I reference to install Climada.
 
 Climada is an open-source software framework that allows you to model climate (economic/financial) risk of a variety of hazards for exposed assets and populations. I've not explored its functionality too far yet, but I got as far as projecting economic damages of river-floods in the UK in the future given a certain climate scenario. It is possible to define custom 'exposures' (e.g., an office or factory), in order to estimate potential damages of climate change. 
 
